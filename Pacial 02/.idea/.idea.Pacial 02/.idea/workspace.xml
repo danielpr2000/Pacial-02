@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a7c2f61-d9f7-4e78-a2cf-10912355228d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Pacial 02/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/Orders.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/Orders.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/Home.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/Home.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/PanelNormalUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/Products.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/PanelNormalUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/Business.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/Products.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/PanelAdmin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/Business.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/OrdersUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/OrdersUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/ConnectionDB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/Asdress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/OneDrive/Escritorio/Repositorio/00365918_RDPR_PO-/00365918_RDPR_PO/laboratorio 08/laboratorio 08/Form1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/Asdress.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/ChangePassword.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/Login.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/Login.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/ChangePassword.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/OneDrive/Escritorio/Repositorio/00365918_RDPR_PO-/00365918_RDPR_PO/laboratorio 09/laboratorio 09/Form1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/OneDrive/Escritorio/Repositorio/00365918_RDPR_PO-/00365918_RDPR_PO/laboratorio 09/laboratorio 09/AdSingature.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/OneDrive/Escritorio/Repositorio/00365918_RDPR_PO-/00365918_RDPR_PO/laboratorio 09/laboratorio 09/Inscripition.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/User.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pacial 02/PanelAdmin.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/OneDrive/Escritorio/Repositorio/00365918_RDPR_PO-/00365918_RDPR_PO/laboratorio 09/laboratorio 09/ViewData.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Pacial 02/ChangePassword.Designer.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/PanelAdmin.Designer.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/ConnectionDB.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/Login.Designer.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/ChangePassword.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/Orders.Designer.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/Form1.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/Home.Designer.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/Products.Designer.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/Business.Designer.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/Login.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/User.Designer.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/PanelAdmin.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/Business.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/Orders.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/PanelNormalUser.Designer.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/homoNorm.Designer.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/Asdress.Designer.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/Products.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/OrdersUsers.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/Asdress.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/OrdersUser.Designer.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/PanelNormalUser.cs" />
+        <option value="$PROJECT_DIR$/Pacial 02/User.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cUpFPtuLv4zaOJHL0glqr7c8SN" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;postgresql" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Pacial 02" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Pacial 02/Pacial 02.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a7c2f61-d9f7-4e78-a2cf-10912355228d" name="Default Changelist" comment="" />
+      <created>1590592932409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590592932409</updated>
+      <workItem from="1590592951010" duration="5863000" />
+      <workItem from="1590603912437" duration="122000" />
+      <workItem from="1590604184230" duration="1213000" />
+      <workItem from="1590606593000" duration="590000" />
+      <workItem from="1590607258426" duration="8411000" />
+      <workItem from="1590617021967" duration="8116000" />
+      <workItem from="1590625607119" duration="2278000" />
+      <workItem from="1590628380072" duration="1898000" />
+      <workItem from="1590630446408" duration="5566000" />
+      <workItem from="1590636366504" duration="2889000" />
+      <workItem from="1590639747419" duration="147000" />
+      <workItem from="1590639998632" duration="1976000" />
+      <workItem from="1590642414673" duration="2127000" />
+      <workItem from="1590644872199" duration="4095000" />
+      <workItem from="1590650801067" duration="2003000" />
+      <workItem from="1590653081630" duration="1267000" />
+      <workItem from="1590654475080" duration="1486000" />
+      <workItem from="1590656616078" duration="10952000" />
+      <workItem from="1590668452316" duration="3443000" />
+      <workItem from="1590672033889" duration="9219000" />
+      <workItem from="1590681483976" duration="3336000" />
+      <workItem from="1590693192133" duration="6013000" />
+      <workItem from="1590701177796" duration="5508000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590604018658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590604018658" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1590709877944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590709877944" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1590709877944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590709877944" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1590709877944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590709877944" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1590709877944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590709877944" />
+  </component>
+</project>
